@@ -27,4 +27,8 @@ To run this project locally:
 cd Service-Squad
 3. Open index.html in your browser to get started.
 
+🤝 Contributing
+Contributions, suggestions, and improvements are welcome!
+Feel free to fork the repo and submit a pull request.
+
 
